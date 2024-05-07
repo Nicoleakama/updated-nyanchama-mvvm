@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "net.ezra.app-pngs-73:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.ezra.app-main-80:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_slack.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/slack.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_light.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_light.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_extra_bold.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_extra_bold.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_briefcase.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/briefcase.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_official.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/official.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_ic_person.xml.flat",
+        "source": "net.ezra.app-main-80:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_netflix.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/netflix.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_thin.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_thin.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.ezra.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_black.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_black.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_regular.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.ezra.app-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_backarrow.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/backarrow.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_google.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/google.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/xml_data_extraction_rules.xml.flat",
+        "source": "net.ezra.app-main-80:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_medium.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_newlogo.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/newlogo.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_italic.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_italic.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_save.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/save.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_ic_search.xml.flat",
+        "source": "net.ezra.app-main-80:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_royalperfume.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/royalperfume.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/xml_backup_rules.xml.flat",
+        "source": "net.ezra.app-main-80:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/font_poppins_bold.ttf.flat",
+        "source": "net.ezra.app-main-80:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_instagram.png.flat",
+        "source": "net.ezra.app-main-80:/drawable/instagram.png"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/drawable_ic_app_logo.xml.flat",
+        "source": "net.ezra.app-main-80:/drawable/ic_app_logo.xml"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.ezra.app-merged_res-78:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "net.ezra.app-main-80:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

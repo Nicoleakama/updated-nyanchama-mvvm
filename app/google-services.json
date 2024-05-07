@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871850124168",
+    "project_id": "neema-539bb",
+    "storage_bucket": "neema-539bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871850124168:android:4a165e83a19358a43fd03d",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKtqco6YY5RKcuQo-xjNshUvFgs00R0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
